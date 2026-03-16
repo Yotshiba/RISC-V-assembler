@@ -1,0 +1,26 @@
+# Compiled binaries
+assembler
+assembler.exe
+test_registers
+test_registers.exe
+test_parser
+test_parser.exe
+test_instr_table
+test_instr_table.exe
+test_symbols
+test_symbols.exe
+test_encode
+test_encode.exe
+test_assembler
+test_assembler.exe
+
+# Temp files from test_assembler
+_test_input.s
+_test_output.hex
+
+# Hex outputs
+examples/*.hex
+*.hex
+
+# Object files
+*.o
